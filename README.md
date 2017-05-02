@@ -16,5 +16,6 @@ A curated list of useful pieces of software to build your own cloud.
 - Elasticsearch
 
 ### Distributed Tracing
+- OpenTracing
 - Hawkular
 - Jaeger
