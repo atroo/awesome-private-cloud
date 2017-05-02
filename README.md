@@ -6,7 +6,7 @@ A curated list of useful pieces of software to build your own cloud.
 ## Content
 
 ### Orchestration and Management
-- (Rancher)[http://rancher.com]
+- [Rancher](http://rancher.com)
 
 ### Monitoring & Logging
 - Prometheus
